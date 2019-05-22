@@ -1,0 +1,14 @@
+C:\TestePraticoWevo\RaphaelMartinez\UsuarioApi\bin\Debug\netcoreapp2.2\UsuarioAPI.deps.json
+C:\TestePraticoWevo\RaphaelMartinez\UsuarioApi\bin\Debug\netcoreapp2.2\UsuarioAPI.runtimeconfig.json
+C:\TestePraticoWevo\RaphaelMartinez\UsuarioApi\bin\Debug\netcoreapp2.2\UsuarioAPI.runtimeconfig.dev.json
+C:\TestePraticoWevo\RaphaelMartinez\UsuarioApi\bin\Debug\netcoreapp2.2\UsuarioAPI.dll
+C:\TestePraticoWevo\RaphaelMartinez\UsuarioApi\bin\Debug\netcoreapp2.2\UsuarioAPI.pdb
+C:\TestePraticoWevo\RaphaelMartinez\UsuarioApi\obj\Debug\netcoreapp2.2\UsuarioAPI.csprojAssemblyReference.cache
+C:\TestePraticoWevo\RaphaelMartinez\UsuarioApi\obj\Debug\netcoreapp2.2\UsuarioAPI.csproj.CoreCompileInputs.cache
+C:\TestePraticoWevo\RaphaelMartinez\UsuarioApi\obj\Debug\netcoreapp2.2\UsuarioAPI.RazorAssemblyInfo.cache
+C:\TestePraticoWevo\RaphaelMartinez\UsuarioApi\obj\Debug\netcoreapp2.2\UsuarioAPI.RazorAssemblyInfo.cs
+C:\TestePraticoWevo\RaphaelMartinez\UsuarioApi\obj\Debug\netcoreapp2.2\UsuarioAPI.AssemblyInfoInputs.cache
+C:\TestePraticoWevo\RaphaelMartinez\UsuarioApi\obj\Debug\netcoreapp2.2\UsuarioAPI.AssemblyInfo.cs
+C:\TestePraticoWevo\RaphaelMartinez\UsuarioApi\obj\Debug\netcoreapp2.2\UsuarioAPI.RazorTargetAssemblyInfo.cache
+C:\TestePraticoWevo\RaphaelMartinez\UsuarioApi\obj\Debug\netcoreapp2.2\UsuarioAPI.dll
+C:\TestePraticoWevo\RaphaelMartinez\UsuarioApi\obj\Debug\netcoreapp2.2\UsuarioAPI.pdb
